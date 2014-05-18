@@ -35,8 +35,6 @@ EMAIL = ""
 # I know I should never do it like this. But it is a hackathon
 # DOCS_EMAIL = ""
 # DOCS_PASSWORD = ""
-DOCS_EMAIL = "user02@team01.govchal00.com"
-DOCS_PASSWORD = "GovSafe02"
 
 def makeTransparent():
 	img = Image.open('imageTemporary.png')
